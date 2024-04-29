@@ -1,0 +1,57 @@
+body { font-family: "Gloria Hallelujah", cursive;
+font-family: "Lilita One", cursive;
+}
+h1 {
+  font-size: 30px;
+  /* margin: 0 20px; */
+  text-align: center;
+}
+p {
+  /* font-size: 20px; */
+  font-size: 20px;
+}
+h2 {
+  font-size: 22px;
+  text-align: center;
+}
+button {
+  border-radius: 10px;
+  background-color: goldenrod;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: 200;
+  margin: 0 auto;
+  display: block;
+  cursor: pointer;
+}
+img {
+  width: 100%;
+}
+.card {
+  padding: 10px;
+  max-width: 300px;
+  width: 100%;
+  border: 10px solid goldenrod;
+}
+.pizza {
+  border: 10px solid goldenrod;
+}
+
+.wok{
+  border: 10px dotted goldenrod;
+}
+
+.rolls{
+  border: 10px dashed goldenrod;
+  
+}
+
+.soup{
+  border: 10px double goldenrod;
+}
+
+.nabor{
+  border: 10px groove goldenrod;
+}
+
+
